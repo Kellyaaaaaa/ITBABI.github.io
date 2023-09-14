@@ -1,0 +1,11 @@
+
+#main {
+	width: 50%;
+	height: 50%;
+	background: url('IMG_3055');
+	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border-radius: 10px;
+}
